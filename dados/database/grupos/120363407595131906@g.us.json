@@ -1,0 +1,44 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-08T19:45:58.754Z",
+  "groupName": "⁛⋱🖤⊹𝑰𝒏𝒇𝒊𝒏𝒊𝒕𝒚❊ˢᵗᵒʳᵉ⏣⋱💚⁛",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "40652503027865@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "ph",
+      "firstSeen": "2026-03-08T19:45:58.765Z",
+      "lastActivity": "2026-03-08T19:45:58.765Z"
+    },
+    {
+      "id": "199665127579694@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "♾️INFINITY STORE♾️",
+      "firstSeen": "2026-03-08T20:04:23.024Z",
+      "lastActivity": "2026-03-08T20:04:36.622Z"
+    },
+    {
+      "id": "195756606656717@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "mister_duck🦆",
+      "firstSeen": "2026-03-08T20:04:31.580Z",
+      "lastActivity": "2026-03-08T20:04:31.580Z"
+    }
+  ]
+}

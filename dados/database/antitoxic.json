@@ -1,0 +1,17 @@
+{
+  "groups": {
+    "120363409057276842@g.us": {
+      "enabled": true,
+      "action": "avisar",
+      "threshold": 70,
+      "enabledAt": "2026-03-09T23:36:57.587Z",
+      "stats": {
+        "detected": 0,
+        "warned": 0,
+        "deleted": 0,
+        "muted": 0
+      }
+    }
+  },
+  "userWarnings": {}
+}

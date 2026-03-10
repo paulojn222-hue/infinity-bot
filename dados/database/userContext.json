@@ -1,0 +1,158 @@
+{
+  "156577915006997@lid_humana": {
+    "userId": "156577915006997@lid_humana",
+    "nome": "JG",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 6,
+      "primeira_conversa": "2026-03-09T23:34:30.000Z",
+      "ultima_conversa": "2026-03-09T23:52:58.000Z",
+      "frequencia_interacao": "media",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "20": 6
+      },
+      "dias_semana_ativos": {
+        "segunda-feira": 6
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-03-09T23:52:58.000Z"
+  },
+  "199665127579694@lid_humana": {
+    "userId": "199665127579694@lid_humana",
+    "nome": "♾️INFINITY STORE♾️",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 3,
+      "primeira_conversa": "2026-03-09T23:35:40.000Z",
+      "ultima_conversa": "2026-03-09T23:40:58.000Z",
+      "frequencia_interacao": "baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "20": 3
+      },
+      "dias_semana_ativos": {
+        "segunda-feira": 3
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-03-09T23:40:58.000Z"
+  },
+  "195756606656717@lid_humana": {
+    "userId": "195756606656717@lid_humana",
+    "nome": "mister_duck🦆",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-03-09T23:37:37.000Z",
+      "ultima_conversa": "2026-03-09T23:37:37.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "20": 1
+      },
+      "dias_semana_ativos": {
+        "segunda-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-03-09T23:37:37.000Z"
+  }
+}

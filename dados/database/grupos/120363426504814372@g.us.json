@@ -1,0 +1,62 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-08T20:17:17.370Z",
+  "groupName": "𝙇𝘼𝙂𝙍𝘼𝙉𝘿 𝙀𝙎𝙏𝙊𝙍𝙀✍️",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "143697408737314@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "ADM KAISER",
+      "firstSeen": "2026-03-08T20:17:17.380Z",
+      "lastActivity": "2026-03-08T20:17:17.380Z"
+    },
+    {
+      "id": "111253058019418@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "David",
+      "firstSeen": "2026-03-09T01:07:19.888Z",
+      "lastActivity": "2026-03-09T01:07:19.889Z"
+    },
+    {
+      "id": "113198443307019@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "nick",
+      "firstSeen": "2026-03-09T16:49:12.994Z",
+      "lastActivity": "2026-03-09T20:51:38.645Z"
+    },
+    {
+      "id": "165206521028780@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Martins",
+      "firstSeen": "2026-03-09T18:15:19.032Z",
+      "lastActivity": "2026-03-09T18:15:19.032Z"
+    },
+    {
+      "id": "65374385106998@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Alves",
+      "firstSeen": "2026-03-09T23:06:50.464Z",
+      "lastActivity": "2026-03-09T23:06:50.464Z"
+    }
+  ]
+}

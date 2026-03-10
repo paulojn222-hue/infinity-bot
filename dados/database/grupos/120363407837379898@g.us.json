@@ -1,0 +1,26 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-09T01:32:30.183Z",
+  "groupName": "Codigos",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "199665127579694@lid",
+      "msg": 0,
+      "cmd": 6,
+      "figu": 0,
+      "pushname": "♾️INFINITY STORE♾️",
+      "firstSeen": "2026-03-10T02:07:59.146Z",
+      "lastActivity": "2026-03-10T02:09:19.695Z"
+    }
+  ]
+}

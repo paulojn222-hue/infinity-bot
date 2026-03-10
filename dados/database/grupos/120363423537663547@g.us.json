@@ -1,0 +1,66 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-09T01:26:38.194Z",
+  "groupName": "teste do bot para mim e meu irmão",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [
+    "158192956899440@lid"
+  ],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "199665127579694@lid",
+      "msg": 9,
+      "cmd": 102,
+      "figu": 0,
+      "pushname": "♾️INFINITY STORE♾️",
+      "firstSeen": "2026-03-10T01:03:22.169Z",
+      "lastActivity": "2026-03-10T02:27:02.612Z"
+    },
+    {
+      "id": "158192956899440@lid",
+      "msg": 12,
+      "cmd": 2,
+      "figu": 0,
+      "pushname": "🖤infinity divulgação 💚",
+      "firstSeen": "2026-03-10T01:07:44.389Z",
+      "lastActivity": "2026-03-10T02:05:23.897Z"
+    },
+    {
+      "id": "41885141844070@lid",
+      "msg": 2,
+      "cmd": 2,
+      "figu": 0,
+      "pushname": "⁛⋱⊹𝑰𝒏𝒇𝒊𝒏𝒊𝒕𝒚❊𝑩ot⁛",
+      "firstSeen": "2026-03-10T01:41:12.493Z",
+      "lastActivity": "2026-03-10T02:05:10.184Z"
+    }
+  ],
+  "preservarContador": false,
+  "blockedUsers": {},
+  "blacklist": {},
+  "antilinkgp": false,
+  "exit": {
+    "enabled": true,
+    "text": "xau ae"
+  },
+  "textbv": "aobaaaa @user fique avontade",
+  "welcome": {
+    "image": "https://raw.githubusercontent.com/nazuninha/uploads/main/fotos/1773106760511_38tss3.jpg"
+  },
+  "customPrefix": "!",
+  "autodl": true,
+  "assistente": true,
+  "assistentePersonality": "nazuna",
+  "modobrincadeira": false,
+  "modolite": false,
+  "modoliteOff": true,
+  "autoSticker": true
+}

@@ -1,0 +1,55 @@
+{
+  "mark": {},
+  "createdAt": "2026-03-08T19:13:39.957Z",
+  "groupName": "Teste do bot novo",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {
+    "195756606656717@lid": true
+  },
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "156577915006997@lid",
+      "msg": 33,
+      "cmd": 42,
+      "figu": 13,
+      "pushname": "JG",
+      "firstSeen": "2026-03-09T23:24:34.132Z",
+      "lastActivity": "2026-03-09T23:53:02.107Z"
+    },
+    {
+      "id": "199665127579694@lid",
+      "msg": 56,
+      "cmd": 4,
+      "figu": 10,
+      "pushname": "♾️INFINITY STORE♾️",
+      "firstSeen": "2026-03-09T23:26:37.041Z",
+      "lastActivity": "2026-03-10T00:43:15.366Z"
+    },
+    {
+      "id": "195756606656717@lid",
+      "msg": 29,
+      "cmd": 17,
+      "figu": 6,
+      "pushname": "mister_duck🦆",
+      "firstSeen": "2026-03-09T23:33:05.008Z",
+      "lastActivity": "2026-03-10T00:43:12.883Z"
+    }
+  ],
+  "warnings": {},
+  "schedule": {},
+  "assistente": true,
+  "assistentePersonality": "humana",
+  "welcome": {
+    "image": "https://raw.githubusercontent.com/nazuninha/uploads/main/fotos/1773099454495_251sja.jpg"
+  },
+  "bemvindo": true,
+  "blacklist": {}
+}
